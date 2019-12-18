@@ -56,8 +56,9 @@ h4
     float: left;
     color: #ffffff;
     border-radius: 12px;
-    padding: 12px;
-         
+
+    word-wrap: break-word;
+ white-space: nowrap;
 }
 .input
 {
@@ -83,4 +84,9 @@ h4
     height: 60px;
     width: 60px;
     
+}
+p
+{
+ word-wrap: break-word;
+ white-space: nowrap;
 }
